@@ -8,20 +8,20 @@ I'm an aspiring web developer who wants to gain more experience and eventually b
 
 #### Languages & Tools
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev" text-decoration="none">
     <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,react,nodejs,mongo,docker,figma,postman,vscode,git,github,notion,npm,codepen,redux&perline=12&theme=dark" />
   </a>
 </p>
 
 #### GitHub Stats
-<a href="https://streak-stats.demolab.com/?user=RamonSanGabriel&show_icons=true&theme=radical&text_decoration=none">
-  <img height=150 align="center" src="https://streak-stats.demolab.com/?user=RamonSanGabriel&show_icons=true&theme=radical&width=200"/>
+<a href="https://streak-stats.demolab.com/?user=RamonSanGabriel&show_icons=true&theme=radical" text_decoration="none">
+  <img height=150 align="center" width=350 src="https://streak-stats.demolab.com/?user=RamonSanGabriel&show_icons=true&theme=radical"/>
 </a>
 <a href="https://github.com/RamonSanGabriel/convoychat&text_decoration=none">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RamonSanGabriel&layout=compact&langs_count=8&width=200" />
+  <img height=150 align="center" width=300  src="https://github-readme-stats.vercel.app/api/top-langs?username=RamonSanGabriel&layout=compact&langs_count=8" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api?username=RamonSanGabriel&show_icons=true&theme=radical&text_decoration=none">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=RamonSanGabriel&show_icons=true&theme=radical&width=200"/>
+  <img height=150 align="center" width=335 src="https://github-readme-stats.vercel.app/api?username=RamonSanGabriel&show_icons=true&theme=radical"/>
 </a>
 
 
