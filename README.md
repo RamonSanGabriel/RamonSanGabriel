@@ -6,6 +6,13 @@ I'm an aspiring web developer who wants to gain more experience and eventually b
      • https://ramonsangabriel-react-portfolio.vercel.app/project<br>
      • https://www.figma.com/design/abtO8GciCO9nNnYkAXPlH3/ExpenseTracker<br>
 
+#### Connect with me
+<p align="left">
+  <a href="https://skillicons.dev" text-decoration="none">
+    <img src="https://skillicons.dev/icons?i=linkedin,gmail,instagram,twitter,meta&perline=12&theme=light" />
+  </a>
+</p>
+
 #### Languages & Tools
 <p align="left">
   <a href="https://skillicons.dev" text-decoration="none">
