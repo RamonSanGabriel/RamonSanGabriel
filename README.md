@@ -14,13 +14,13 @@ I'm an aspiring web developer who wants to gain more experience and eventually b
 </p>
 
 #### GitHub Stats
-<a href="https://streak-stats.demolab.com/?user=RamonSanGabriel&show_icons=true&theme=radical&target=_blank">
+<a href="https://streak-stats.demolab.com/?user=RamonSanGabriel&show_icons=true&theme=radical">
   <img height=150 align="center" width=350 src="https://streak-stats.demolab.com/?user=RamonSanGabriel&show_icons=true&theme=radical"/>
 </a>
-<a href="https://github.com/RamonSanGabriel/convoychat&text_decoration=none">
-  <img height=150 align="center" width=300  src="https://github-readme-stats.vercel.app/api/top-langs?username=RamonSanGabriel&layout=compact&langs_count=8" />
+<a href="https://github.com/RamonSanGabriel/convoychat&" text-decoration="none">
+  <img height=150 align="center" width=300  src="https://github-readme-stats.vercel.app/api/top-langs?username=RamonSanGabriel&layout=compact&langs_count=8" text-decoration="none"/>
 </a>
-<a href="https://github-readme-stats.vercel.app/api?username=RamonSanGabriel&show_icons=true&theme=radical&text_decoration=none">
+<a href="https://github-readme-stats.vercel.app/api?username=RamonSanGabriel&show_icons=true&theme=radical">
   <img height=150 align="center" width=335 src="https://github-readme-stats.vercel.app/api?username=RamonSanGabriel&show_icons=true&theme=radical"/>
 </a>
 
