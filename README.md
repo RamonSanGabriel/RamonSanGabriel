@@ -1,5 +1,6 @@
 ### Hi 👋, my name is Ramon
 #### Junior Full Stack Developer
+#### About me
 I'm an aspiring web developer who wants to gain more experience and eventually be involved in high level projects that will have an impact in the IT industry.
 
 💻 I’m currently working on my personal projects to enhance my coding skills:<br>
